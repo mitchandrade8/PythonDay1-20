@@ -4,11 +4,18 @@
         #   -> len(), int(),
 
 
-print("Hello")
+# print("Hello")
 
-num_char = len("Hello")
-print(num_char)
+# num_char = len("Hello")
+# print(num_char)
 
 
 # MARK: - How to make our own Function in Python
 
+        # Keyword of 'def'
+    
+def my_function():
+    print("Hello")
+    print("Bye")
+
+my_function()
